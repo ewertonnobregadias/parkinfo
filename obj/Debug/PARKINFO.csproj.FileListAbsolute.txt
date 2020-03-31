@@ -1,0 +1,8 @@
+C:\Users\ewdias\Documents\Visual Studio 2019\projetos\PARKINFO\PARKINFO\obj\Debug\PARKINFO.csprojAssemblyReference.cache
+C:\Users\ewdias\Documents\Visual Studio 2019\projetos\PARKINFO\PARKINFO\obj\Debug\PARKINFO.Form1.resources
+C:\Users\ewdias\Documents\Visual Studio 2019\projetos\PARKINFO\PARKINFO\obj\Debug\PARKINFO.Properties.Resources.resources
+C:\Users\ewdias\Documents\Visual Studio 2019\projetos\PARKINFO\PARKINFO\obj\Debug\PARKINFO.csproj.GenerateResource.cache
+C:\Users\ewdias\Documents\Visual Studio 2019\projetos\PARKINFO\PARKINFO\bin\Debug\PARKINFO.exe
+C:\Users\ewdias\Documents\Visual Studio 2019\projetos\PARKINFO\PARKINFO\bin\Debug\PARKINFO.pdb
+C:\Users\ewdias\Documents\Visual Studio 2019\projetos\PARKINFO\PARKINFO\obj\Debug\PARKINFO.exe
+C:\Users\ewdias\Documents\Visual Studio 2019\projetos\PARKINFO\PARKINFO\obj\Debug\PARKINFO.pdb
